@@ -7,6 +7,6 @@
  */
 
 return[
-    'img_prefix'=>'http://www.test.com/static/images',
+    'img_prefix'=>'http://api.boystark.com/static/images',
     'token_expire_in'=>7200,
 ];
