@@ -7,5 +7,5 @@
  */
 return [
     'token_salt'=>'asjdipfhjdsfona',
-    'pay_back_url'=>'https://api.boystark.com/api/v1/pay/notify'
+    'pay_back_url'=>'https://www.boystark.com/api/v1/pay/notify'
 ];

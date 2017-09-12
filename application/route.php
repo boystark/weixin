@@ -17,6 +17,9 @@ use think\Route;
 //    'name'  =>  '\w+',
 //    'id'    =>  '\d+',
 //]);
+
+Route::get('/','index/index/index');
+
 //Route::rule(‘路由表达式’,‘路由地址’,‘请求类型’,‘路由参数（数组）’,‘变量规则（数组）’);
 //获取banner
 Route::get('api/:version/banner/:id','api/:version.Banner/getBanner',[],['id'=>'\d+']);
